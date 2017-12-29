@@ -579,5 +579,13 @@ namespace PreviewDemo
             DB_Class db = new DB_Class();
             db.update_xiangji_zaixiang_biaoji(camIP, false);
         }
+
+        private void fasong_duanxian_biaojitest()
+        {
+            DB_Class db = new DB_Class();
+            db.update_xiangji_zaixiang_biaoji(camIP, false);
+        }
+
+
     }
 }
